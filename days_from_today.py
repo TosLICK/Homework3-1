@@ -14,5 +14,5 @@ def get_days_from_today(date: str) -> int:
     
 # def main():
 #     print(get_days_from_today('2024-02-29'))
-# 
+    
 # main()
